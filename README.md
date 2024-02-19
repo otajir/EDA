@@ -1,5 +1,4 @@
 # EDA
-Exploratory Data Analysis
 Data Explorer App with Streamlit
 This is a simple data exploration web application built with Streamlit, a Python library for creating interactive web applications.
 
