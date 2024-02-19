@@ -21,10 +21,13 @@ Upload Data: Users can upload CSV or XLSX files to explore their datasets.
 Data Exploration: The application displays the uploaded data, including the first few rows and summary statistics.
 Data Visualization: Users can select columns and choose between different types of charts (line chart, bar chart, histogram) to visualize their data.
 Additional Enhancements: The application provides a sidebar for additional options such as search, filtering, and data export.
+
 File Structure
 app.py: The main Python file containing the Streamlit application code.
+
 README.md: This file, providing instructions and information about the application.
 requirements.txt: A text file listing the required Python packages and their versions.
+
 Libraries Used
 Streamlit: For building the interactive web application.
 Pandas: For data manipulation and analysis.
